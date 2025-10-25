@@ -1,5 +1,5 @@
 # The Relationship Between Heart Rate Variability Frequency Bands and Brain Signal Complexity: A Research Review and Project Design Framework
-# Alex Ni, Divergence Neuro
+### By: Alex Ni, Divergence Neuro, 2025
 
 The intuition combined with some observations through the ketamine EEG / HRV measures done in Oct, 2025, Frankfurt about the relationship between HRV frequency bands and brain signal complexity represents an emerging frontier in neuroscience. Both measures indeed reflect different perspectives on physiological flexibility and readiness—HRV captures autonomic nervous system adaptability, while brain complexity measures like Lempel-Ziv Complexity (LZC) reflect the repertoire of neural activity patterns. While research has explored connections between HRV and brain activity, the specific relationship between HRV frequency bands (VLF, LF, HF) and LZC in EEG remains an understudied area, presenting a compelling opportunity for original research.[^1_1][^1_2][^1_3]
 
