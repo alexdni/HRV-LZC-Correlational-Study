@@ -7,6 +7,7 @@ The intuition combined with some observations through the ketamine EEG / HRV mea
 ### The Neurovisceral Integration Model
 
 ![Theoretical framework showing the relationship between HRV frequency bands and brain signal complexity measures through the Central Autonomic Network]
+<img width="1024" height="1024" alt="hrv-lzc" src="https://github.com/user-attachments/assets/27b4a381-71c1-45db-80a6-eaab4006798c" />
 
 Theoretical framework showing the relationship between HRV frequency bands and brain signal complexity measures through the Central Autonomic Network
 
